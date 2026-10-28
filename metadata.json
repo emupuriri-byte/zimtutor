@@ -1,0 +1,6 @@
+{
+  "name": "Zim Learning",
+  "description": "Modern educational tutoring marketplace connecting students in Zimbabwe with qualified teachers and tutors for O Level, IGCSE, AS and A Level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
